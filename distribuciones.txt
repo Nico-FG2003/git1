@@ -3,3 +3,4 @@ Linux mint
 Ubuntu
 Red Hat
 CentOS
+Fedora
